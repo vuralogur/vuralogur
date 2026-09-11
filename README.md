@@ -85,19 +85,6 @@ A command-line and GUI analyzer that inspects `.eml`, `.msg`, and raw email file
 
 ---
 
-### [EtfVergiHesaplamaAraci](https://github.com/vuralogur/EtfVergiHesaplamaAraci) — Capital Gains Tax Calculator
-
-Yİ-ÜFE indexed (inflation shield) capital gains tax calculator with TCMB exchange rates, FIFO lot matching, and PDF/CSV reporting.
-
-### [mola-takip-uygulamasi](https://github.com/vuralogur/mola-takip-uygulamasi) — Break Tracking App
-
-A Python utility for tracking work and break intervals.
-
-### [RetirementPlaning](https://github.com/vuralogur/RetirementPlaning) — Retirement Planning Tool
-
-Long-horizon financial projection and retirement planning calculations.
-
----
 
 # 📊 GitHub Performance Overview
 

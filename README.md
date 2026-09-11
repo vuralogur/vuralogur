@@ -103,15 +103,7 @@ A command-line and GUI analyzer that inspects `.eml`, `.msg`, and raw email file
 
 ---
 
-# 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vuralogur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
@@ -123,7 +115,7 @@ A command-line and GUI analyzer that inspects `.eml`, `.msg`, and raw email file
 
 ---
 
-# 🐍 Contribution Snake
+
 
 <div align="center">
 
